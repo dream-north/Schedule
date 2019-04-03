@@ -1,0 +1,2 @@
+# Schedule
+Django project practice
